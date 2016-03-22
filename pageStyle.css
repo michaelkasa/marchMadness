@@ -1,0 +1,9 @@
+body {
+  background-color: #F5F5F5;
+  font-size: 100%;
+  font-family: Sans-serif, Verdana;
+}
+table.center {
+  margin-left:auto;
+  margin-right:auto;
+}

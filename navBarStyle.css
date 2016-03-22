@@ -1,0 +1,16 @@
+ul#navmen {
+  padding: 0;
+}
+ul#navmen li {
+  display: inline;
+}
+ul#navmen li a{
+  background-color: #FF7148;
+  color: black;
+  padding: 20px 50px;
+  text-decoration: none;
+  border-radius: 4px 4px 0 0;
+}
+ul#navmen li a:hover {
+  background-color: #EC583A;
+}
