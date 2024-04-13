@@ -30,7 +30,7 @@
       Let me know if you have any comments or questions!
     </td></tr>
     <tr><td>
-      <h2 style="color:#EC583A"> Leader board (as of Saturday night) </h2>
+      <h2 style="color:#EC583A"> Leader board (Final scores 2024) </h2>
     </td></tr>
     <tr><td>
       <ol><?php include 'printLeaderBoard.php'; ?></ol>

@@ -1,65 +1,65 @@
-#1 Kansas
-#16 Austin Peay
-#8 Colorado
-#9 Connecticut
-#5 Maryland
-#12 S. Dakota St.
-#4 California
-#13 Hawaii
-#6 Arizona
-#11 Vanderbilt or Wichita St.
-#3 Miami (Fla)
-#14 Buffalo
-#7 Iowa
-#10 Temple
-#2 Villanova
-#15 UNC Asheville
-#1 Oregon
-#16 Holy Cross or Southern
-#8 Saint Joseph's
-#9 Cincinatti
-#5 Baylor
-#12 Yale
-#4 Duke
-#13 UNC Wilmington
-#6 Texas
-#11 Northern Iowa
-#3 Texas A&M
-#14 Green Bay
-#7 Oregon State
-#10 VCU
-#2 Oklahoma
-#15 CSU Bakersfield
+#1 UConn
+#16 Stetson
+#8 FAU
+#9 Northwestern (Go Cats!)
+#5 San Diego St
+#12 UAB
+#4 Auburn
+#13 Yale
+#6 BYU
+#11 Duquesne
+#3 Illinois
+#14 Morehead St
+#7 Washington St
+#10 Drake
+#2 Iowa St
+#15 South Dakota St
 #1 North Carolina
-#16 FGCU or Fair. Dickinson
-#8 USC
-#9 Providence
-#5 Indiana
-#12 Chattanooga
-#4 Kentucky
-#13 Stony Brook
-#6 Notre Dame
-#11 Michigan or Tulsa
-#3 West Virginia
-#14 S.F. Austin
-#7 Wisconsin
-#10 Pittsburgh
-#2 Xavier
-#15 Weber St.
-#1 Virginia
-#16 Hampton
-#8 Texas Tech
-#9 Butler
-#5 Purdue
-#12 Little Rock
-#4 Iowa St.
-#13 Iona
-#6 Seton Hall
-#11 Gonzaga
-#3 Utah
-#14 Fresno State
-#7 Dayton 
-#10 Syracuse
-#2 Michigan State
-#15 Middle Tenn.
+#16 Howard / #16 Wagner
+#8 Mississippi St
+#9 Michigan St
+#5 Saint Mary's
+#12 Grand Canyon
+#4 Alabama
+#13 Charleston
+#6 Clemson
+#11 New Mexico
+#3 Baylor
+#14 Colgate
+#7 Dayton
+#10 Nevada
+#2 Arizona
+#15 Long Beach St
+#1 Houston
+#16 Longwood
+#8 Nebraska
+#9 Texas A&M
+#5 Wisconsin
+#12 James Madison
+#4 Duke
+#13 Vermont
+#6 Texas Tech
+#11 NC State
+#3 Kentucky
+#14 Oakland
+#7 Florida
+#10 Colorado / #10 Boise St
+#2 Marquette
+#15 Western Ky
+#1 Purdue
+#16 Grambling / #16 Montana St
+#8 Utah St
+#9 TCU
+#5 Gonzaga
+#12 McNeese
+#4 Kansas
+#13 Samford
+#6 South Carolina
+#11 Oregon
+#3 Creighton
+#14 Akron
+#7 Texas
+#10 Colorado St / #10 Virginia
+#2 Tennessee
+#15 Saint Peter's
 
