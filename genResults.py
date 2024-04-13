@@ -32,7 +32,6 @@ fh.close()
 userNames = []
 userPicks = []
 scores = {}
-print flines
 for ii in range(1,len(flines),2):
   userPicks.append( flines[ii] )
 for ii in range(0,len(flines),2):
